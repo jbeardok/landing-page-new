@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.hero,
+footer {
+  background-color: #1f2937;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.hero h1,
+.logo {
+  color: #f9faf8;
+}
+
+.hero p,
+.links li {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+h2 {
+  font-size: 900;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote, h2 {
+  font-size: 36px;
+}
+
+.information, .quote {
+  color: #1f2937;
+}
+
+.call-to-action,
+button {
+  background-color: #3882f6;
+}
